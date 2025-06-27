@@ -1,1 +1,8 @@
 Setup
+
+1. Setting up GitHub Desktop.
+2. Resort data.
+combine provincial data into countries.
+Combine daily data into monthly.
+Figure out the visualizations
+Figure out how to do the division by months visualization
