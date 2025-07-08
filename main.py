@@ -5,7 +5,8 @@ import folium
 from streamlit.components.v1 import html as st_html
 
 # Page Configuration
-st.set_page_config(page_title="COVID-19 Spread Visualization", layout="wide")
+st.set_page_config(page_title="COVID-19 Spread Visualization", layout="wide", initial_sidebar_state='expanded')
+
 
 
 # Load Data
